@@ -1,0 +1,21 @@
+auto_announce: true
+announcements:
+  delay: 1800 #Delays between announce in ticks (20 ticks = 1 second)
+  announces:
+     announcement_vote_reminder:
+        delay_between: 60 #Delay between each announce sentence in ticks.
+        announces:
+        - "&7Start Voting!"
+        - "&7By Voting, it would help us alot!"
+        - "&7You'll also get a reward in return!"
+     announcement_donate:
+        delay_between: 60
+        announces:
+        - "&7Go Donate!"
+        - "&7By Donating, you'll get awesome things!"
+     announcement_shop:
+        delay_between: 60
+        announces:
+        - "&7Make your shop!"
+        - "&7Do you know, you can do /shop?"
+        - "&7Well it's an awesome thing to sell/buy"

@@ -1,0 +1,10 @@
+name: ActionBarAnnouncer
+version: 1.0.0.0
+author: Gober
+main: com.gmail.JyckoSianjaya.ActionBarAnnouncer.Main.ActionBarAnnouncer
+description: Announce your action bar messages.
+commands:
+  actionbarannouncer:
+      usage: /<command>
+      aliases: [aba, actionbara, abannouncer]
+      description: Main Command for ActionBarAnnouncer!
